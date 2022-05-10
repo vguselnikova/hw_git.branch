@@ -1,0 +1,3 @@
+Chat - the creator of a group conversation cannot rename it
+Type: Bug
+Priority: Medium
